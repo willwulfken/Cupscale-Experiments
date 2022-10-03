@@ -1,7 +1,8 @@
 # Cupscale Experiments
 
+<br>
 
-### Upscaling 32x Images
+## Upscaling 32x Images
 
 <div align="center">
 
