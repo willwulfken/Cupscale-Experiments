@@ -16,9 +16,9 @@
         <th colspan=3>Banana</th>
     </tr>
     <tr align="center" valign="middle">
-        <th>Original Image</th>
-        <th>4x NickelbackFS 72000G</th>
-        <th>4x NickelbackFS 72000G (Twice)</th>
+        <th width=256>Original Image</th>
+        <th width=256>4x NickelbackFS 72000G</th>
+        <th width=256>4x NickelbackFS 72000G (Twice)</th>
     </tr>
     <tr align="center" valign="middle">
         <td><img src="https://github.com/willwulfken/Cupscale-Experiments/blob/main/Images/Upscaling_32x_Images/Banana/Banana.png?raw=true" width="32" /><p><code>32x32</code></p></td>
@@ -34,9 +34,9 @@
         <th colspan=3>Pear</th>
     </tr>
     <tr align="center" valign="middle">
-        <th>Original Image</th>
-        <th>4x NickelbackFS 72000G</th>
-        <th>4x NickelbackFS 72000G (Twice)</th>
+        <th width=256>Original Image</th>
+        <th width=256>4x NickelbackFS 72000G</th>
+        <th width=256>4x NickelbackFS 72000G (Twice)</th>
     </tr>
     <tr align="center" valign="middle">
         <td><img src="https://github.com/willwulfken/Cupscale-Experiments/blob/main/Images/Upscaling_32x_Images/Pear/Pear.png?raw=true" width="32" /><p><code>32x32</code></p></td>
@@ -57,9 +57,9 @@
         <th colspan=3>SMB1 Mario</th>
     </tr>
     <tr align="center" valign="middle">
-        <th>Original Image</th>
-        <th>4x NickelbackFS 72000G</th>
-        <th>4x NickelbackFS 72000G (Twice)</th>
+        <th width=256>Original Image</th>
+        <th width=256>4x NickelbackFS 72000G</th>
+        <th width=256>4x NickelbackFS 72000G (Twice)</th>
     </tr>
     <tr align="center" valign="middle">
         <td><img src="https://github.com/willwulfken/Cupscale-Experiments/blob/main/Images/Upscaling_16x_Images/SMB1_Mario/SMB1_Mario.png?raw=true" width="16" /><p><code>16x16</code></p></td>
@@ -75,9 +75,9 @@
         <th colspan=3>Minecraft Logo</th>
     </tr>
     <tr align="center" valign="middle">
-        <th></th>
-        <th>Original Image</th>
-        <th></th>
+        <th width=256></th>
+        <th width=256>Original Image</th>
+        <th width=256></th>
     </tr>
     <tr align="center" valign="middle">
         <td></td>
@@ -150,10 +150,10 @@
         <th colspan=4>Purple Shape</th>
     </tr>
     <tr align="center" valign="middle">
-        <th>Original Image</th>
-        <th>4x NickelbackFS 72000G</th>
-        <th>4x NickelbackFS 72000G (Twice)</th>
-        <th>4x NickelbackFS 72000G (Thrice)</th>
+        <th width=200>Original Image</th>
+        <th width=200>4x NickelbackFS 72000G</th>
+        <th width=200>4x NickelbackFS 72000G (Twice)</th>
+        <th width=200>4x NickelbackFS 72000G (Thrice)</th>
     </tr>
     <tr align="center" valign="middle">
         <td><img src="https://github.com/willwulfken/Cupscale-Experiments/blob/main/Images/Upscaling_Abstract_Images/Purple_Shape/Purple_Shape.png?raw=true" width="48" /><p><code>48x16</code></p></td>
