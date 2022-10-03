@@ -67,7 +67,7 @@
         <th colspan=3>Minecraft Logo</th>
     </tr>
     <tr align="center" valign="middle">
-        <th>Original Image</th>
+        <th colspan=3>Original Image</th>
     </tr>
     <tr align="center" valign="middle">
         <td colspan=3><img src="https://github.com/willwulfken/Cupscale-Experiments/blob/main/Images/Upscaling_16x_Images/Minecraft_Logo/Minecraft_Logo.png?raw=true" width="16" /><p><code>16x16</code></p></td>
@@ -115,7 +115,7 @@
     <tr align="center" valign="middle">
         <th>4x ESRGAN GroundTextures Non-Tiled</th>
         <th>4x ESRGAN GroundTextures Non-Tiled (Twice)</th>
-        <th>4x ESRGAN GroundTextures Non-Tiled (Thrice)</th>
+        <th></th>
     </tr>
     <tr align="center" valign="middle">
         <td><img src="https://github.com/willwulfken/Cupscale-Experiments/blob/main/Images/Upscaling_16x_Images/Minecraft_Logo/ESRGAN_GroundTextures/Minecraft_Logo-ESRGAN_GroundTextures_NonTiled_305000.png?raw=true" width="64" /><p><code>64x64</code></p></td>
