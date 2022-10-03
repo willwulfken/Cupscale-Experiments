@@ -12,8 +12,8 @@
     </tr>
     <tr align="center" valign="middle">
         <th>Original Image</th>
-        <th>4x_NickelbackFS_72000_G</th>
-        <th>4x_NickelbackFS_72000_G (Twice)</th>
+        <th>4x NickelbackFS 72000G</th>
+        <th>4x NickelbackFS 72000G (Twice)</th>
     </tr>
     <tr align="center" valign="middle">
         <td><img src="https://github.com/willwulfken/Cupscale-Experiments/blob/main/Images/Upscaling_32x_Images/Banana/Banana.png?raw=true" width="32" /><p><code>32x32</code></p></td>
@@ -30,8 +30,8 @@
     </tr>
     <tr align="center" valign="middle">
         <th>Original Image</th>
-        <th>4x_NickelbackFS_72000_G</th>
-        <th>4x_NickelbackFS_72000_G (Twice)</th>
+        <th>4x NickelbackFS 72000G</th>
+        <th>4x NickelbackFS 72000G (Twice)</th>
     </tr>
     <tr align="center" valign="middle">
         <td><img src="https://github.com/willwulfken/Cupscale-Experiments/blob/main/Images/Upscaling_32x_Images/Pear/Pear.png?raw=true" width="32" /><p><code>32x32</code></p></td>
@@ -50,8 +50,8 @@
     </tr>
     <tr align="center" valign="middle">
         <th>Original Image</th>
-        <th>4x_NickelbackFS_72000_G</th>
-        <th>4x_NickelbackFS_72000_G (Twice)</th>
+        <th>4x NickelbackFS 72000G</th>
+        <th>4x NickelbackFS 72000G (Twice)</th>
     </tr>
     <tr align="center" valign="middle">
         <td><img src="https://github.com/willwulfken/Cupscale-Experiments/blob/main/Images/Upscaling_16x_Images/SMB1_Mario/SMB1_Mario.png?raw=true" width="16" /><p><code>16x16</code></p></td>
@@ -68,11 +68,14 @@
     </tr>
     <tr align="center" valign="middle">
         <th>Original Image</th>
-        <th>4x_NickelbackFS_72000_G</th>
-        <th>4x_NickelbackFS_72000_G (Twice)</th>
     </tr>
     <tr align="center" valign="middle">
         <td colspan=3><img src="https://github.com/willwulfken/Cupscale-Experiments/blob/main/Images/Upscaling_16x_Images/Minecraft_Logo/Minecraft_Logo.png?raw=true" width="16" /><p><code>16x16</code></p></td>
+    </tr>
+    <tr align="center" valign="middle">
+        <th>4x NickelbackFS 72000G</th>
+        <th>4x NickelbackFS 72000G (Twice)</th>
+        <th>4x NickelbackFS 72000G (Thrice)</th>
     </tr>
     <tr align="center" valign="middle">
         <td><img src="https://github.com/willwulfken/Cupscale-Experiments/blob/main/Images/Upscaling_16x_Images/Minecraft_Logo/NickelbackFS/Minecraft_Logo-4x_NickelbackFS_72000_G.png?raw=true" width="64" /><p><code>64x64</code></p></td>
@@ -80,9 +83,19 @@
         <td><img src="https://github.com/willwulfken/Cupscale-Experiments/blob/main/Images/Upscaling_16x_Images/Minecraft_Logo/NickelbackFS/Minecraft_Logo-4x_NickelbackFS_72000_G-4x_NickelbackFS_72000_G-4x_NickelbackFS_72000_G.png?raw=true" width="256" /><p><code>1024x1024</code></p></td>
     </tr>
     <tr align="center" valign="middle">
+        <th>4xBox</th>
+        <th>4xBox (Twice)</th>
+        <th>4xBox (Thrice)</th>
+    </tr>
+    <tr align="center" valign="middle">
         <td><img src="https://github.com/willwulfken/Cupscale-Experiments/blob/main/Images/Upscaling_16x_Images/Minecraft_Logo/4xBox/Minecraft_Logo-4xBox.png?raw=true" width="64" /><p><code>64x64</code></p></td>
         <td><img src="https://github.com/willwulfken/Cupscale-Experiments/blob/main/Images/Upscaling_16x_Images/Minecraft_Logo/4xBox/Minecraft_Logo-4xBox-4xBox.png?raw=true" width="256" /><p><code>256x256</code></p></td>
         <td><img src="https://github.com/willwulfken/Cupscale-Experiments/blob/main/Images/Upscaling_16x_Images/Minecraft_Logo/4xBox/Minecraft_Logo-4xBox-4xBox-4xBox.png?raw=true" width="256" /><p><code>1024x1024</code></p></td>
+    </tr>
+    <tr align="center" valign="middle">
+        <th>4x ESRGAN GroundTextures 31000G</th>
+        <th>4x ESRGAN GroundTextures 31000G (Twice)</th>
+        <th>4x ESRGAN GroundTextures 31000G (Thrice)</th>
     </tr>
     <tr align="center" valign="middle">
         <td><img src="https://github.com/willwulfken/Cupscale-Experiments/blob/main/Images/Upscaling_16x_Images/Minecraft_Logo/ESRGAN_GroundTextures/Minecraft_Logo-31000_G.png?raw=true" width="64" /><p><code>64x64</code></p></td>
@@ -90,9 +103,19 @@
         <td><img src="https://github.com/willwulfken/Cupscale-Experiments/blob/main/Images/Upscaling_16x_Images/Minecraft_Logo/ESRGAN_GroundTextures/Minecraft_Logo-31000_G-31000_G-31000_G.png?raw=true" width="256" /><p><code>1024x1024</code></p></td>
     </tr>
     <tr align="center" valign="middle">
+        <th>4x ESRGAN GroundTextures 65000G</th>
+        <th>4x ESRGAN GroundTextures 65000G (Twice)</th>
+        <th>4x ESRGAN GroundTextures 65000G (Thrice)</th>
+    </tr>
+    <tr align="center" valign="middle">
         <td><img src="https://github.com/willwulfken/Cupscale-Experiments/blob/main/Images/Upscaling_16x_Images/Minecraft_Logo/ESRGAN_GroundTextures/Minecraft_Logo-65000_G.png?raw=true" width="64" /><p><code>64x64</code></p></td>
         <td><img src="https://github.com/willwulfken/Cupscale-Experiments/blob/main/Images/Upscaling_16x_Images/Minecraft_Logo/ESRGAN_GroundTextures/Minecraft_Logo-65000_G-65000_G.png?raw=true" width="256" /><p><code>256x256</code></p></td>
         <td><img src="https://github.com/willwulfken/Cupscale-Experiments/blob/main/Images/Upscaling_16x_Images/Minecraft_Logo/ESRGAN_GroundTextures/Minecraft_Logo-65000_G-65000_G-65000_G.png?raw=true" width="256" /><p><code>1024x1024</code></p></td>
+    </tr>
+    <tr align="center" valign="middle">
+        <th>4x ESRGAN GroundTextures Non-Tiled</th>
+        <th>4x ESRGAN GroundTextures Non-Tiled (Twice)</th>
+        <th>4x ESRGAN GroundTextures Non-Tiled (Thrice)</th>
     </tr>
     <tr align="center" valign="middle">
         <td><img src="https://github.com/willwulfken/Cupscale-Experiments/blob/main/Images/Upscaling_16x_Images/Minecraft_Logo/ESRGAN_GroundTextures/Minecraft_Logo-ESRGAN_GroundTextures_NonTiled_305000.png?raw=true" width="64" /><p><code>64x64</code></p></td>
@@ -111,9 +134,9 @@
     </tr>
     <tr align="center" valign="middle">
         <th>Original Image</th>
-        <th>4x_NickelbackFS_72000_G</th>
-        <th>4x_NickelbackFS_72000_G (Twice)</th>
-        <th>4x_NickelbackFS_72000_G (Thrice)</th>
+        <th>4x NickelbackFS 72000G</th>
+        <th>4x NickelbackFS 72000G (Twice)</th>
+        <th>4x NickelbackFS 72000G (Thrice)</th>
     </tr>
     <tr align="center" valign="middle">
         <td><img src="https://github.com/willwulfken/Cupscale-Experiments/blob/main/Images/Upscaling_Abstract_Images/Purple_Shape/Purple_Shape.png?raw=true" width="48" /><p><code>48x16</code></p></td>
