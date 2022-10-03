@@ -2,7 +2,12 @@
 
 <br>
 
+
+
+
 ## Upscaling 32x Images
+
+<br>
 
 <div align="center">
 
@@ -22,7 +27,7 @@
     </tr>
 </table>
 
-<br>
+<br><br>
 
 <table>
     <tr align="center" valign="middle">
@@ -42,6 +47,9 @@
 
 <br>
 
+
+
+
 ## Upscaling 16x Images
 
 <table>
@@ -60,7 +68,7 @@
     </tr>
 </table>
 
-<br>
+<br><br>
 
 <table>
     <tr align="center" valign="middle">
@@ -126,7 +134,12 @@
 
 <br>
 
+
+
+
 ## Upscaling Abstract Images
+
+<br>
 
 <table>
     <tr align="center" valign="middle">
