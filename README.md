@@ -75,10 +75,14 @@
         <th colspan=3>Minecraft Logo</th>
     </tr>
     <tr align="center" valign="middle">
+        <th></th>
         <th colspan=3>Original Image</th>
+        <th></th>
     </tr>
     <tr align="center" valign="middle">
+        <td></td>
         <td colspan=3><img src="https://github.com/willwulfken/Cupscale-Experiments/blob/main/Images/Upscaling_16x_Images/Minecraft_Logo/Minecraft_Logo.png?raw=true" width="16" /><p><code>16x16</code></p></td>
+        <td></td>
     </tr>
     <tr align="center" valign="middle">
         <th>4x NickelbackFS 72000G</th>
